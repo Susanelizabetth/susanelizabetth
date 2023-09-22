@@ -5,7 +5,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=susanelizabetth)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?susanelizabetth=ffflabs)](https://github.com/susanelizabetth/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=susanelizabetth)](https://github.com/susanelizabetth/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=susanelizabetth&show_icons=true)
 
