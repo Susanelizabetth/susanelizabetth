@@ -4,6 +4,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=susanelizabetth&hide=contribs,prs)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=susanelizabetth&show_icons=true)
+
+
 **Susanelizabetth/Susanelizabetth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
