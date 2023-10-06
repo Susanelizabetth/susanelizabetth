@@ -11,21 +11,11 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👯 I’m looking to collaborate on **mknkhshdf**
-
-- 🤝 I’m looking for help with **,fnajsbhadj**
-
 - 👨‍💻 All of my projects are available at [susanelizabetth.com](susanelizabetth.com)
-
-- 📝 I regularly write articles on [susanelizabetth.com](susanelizabetth.com)
 
 - 💬 Ask me about **React, Angular, AWS, Python**
 
 - 📫 How to reach me **susanelizabetth@gmail.com**
-
-- 📄 Know about my experiences [acerca de mi](acerca de mi)
-
-- ⚡ Fun fact **hola**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
